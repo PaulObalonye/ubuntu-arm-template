@@ -7,5 +7,5 @@
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-This template allows you to create 2 Virtual Machines in an Availability Set with configure NAT rules for SSH through an external load balancer. This template also deploys a Storage Account, Virtual Network, Public IP address and Network Interfaces. Resource loops are used to create the network interfaces and virtual machines.
+This template allows you to create 2 Virtual Machines in an Availability Set with NAT rules for SSH through an external load balancer. This template also deploys a Storage Account, Virtual Network, Public IP address and Network Interfaces. Resource loops are used to create the network interfaces and virtual machines.
 
