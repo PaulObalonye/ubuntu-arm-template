@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "2 Ubuntu Server VMs behind an external Load Balancer with inbound NAT rules for SSH",
+  "description": "This template allows you to create 2 Virtual Machines in an Availability Set with configure NAT rules for SSH through an external load balancer. This template also deploys a Storage Account, Virtual Network, Public IP address and Network Interfaces. Resource loops are used to create the network interfaces and virtual machines",
+  "summary": "2 Ubuntu Server VMs behind an external Load Balancer with inbound NAT rules for SSH",
+  "githubUsername": "mikepfeiffer",
+  "dateUpdated": "2016-05-19"
+}
